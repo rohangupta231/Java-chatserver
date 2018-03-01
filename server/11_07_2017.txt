@@ -1,0 +1,6 @@
+Cilent: 14:26:20 Hi
+Server: 14:26:24 hello
+Cilent: 14:26:24 
+Server: 14:26:31 bye
+Cilent: 14:28:11 Hi
+Server: 14:28:13 bye

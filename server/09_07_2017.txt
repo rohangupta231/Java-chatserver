@@ -1,0 +1,8 @@
+Cilent: 19:33:43 lol
+Server: 19:33:46 bye
+Cilent: 19:38:14 sfsd
+Server: 19:38:17 sdsf
+Cilent: 19:38:22 sfs
+Server: 19:38:26 sfa
+Cilent: 19:38:40 bye
+Server: 19:38:44 bye

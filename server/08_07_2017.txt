@@ -1,0 +1,22 @@
+Cilent: 08:26:52 hi bhaiya
+Server: 08:26:59 haan bey
+Cilent: 08:27:08 bhai gussa ho
+Server: 08:27:17 chup kar bey nikal yaha se
+Cilent: 08:27:21 bye
+Server: 08:27:24 bye
+Cilent: 08:34:39 lo
+Server: 08:34:41 ?
+Cilent: 08:34:44 bye
+Server: 08:34:46 bye
+Cilent: 12:45:40 lol
+Server: 12:45:48 i worked
+Cilent: 12:45:52 yeah
+Server: 12:45:58 bye
+Cilent: 12:52:00 lol
+Server: 12:52:09 bye
+Cilent: 13:05:25 lol
+Server: 13:05:32 bye
+Cilent: 14:41:49 lol
+Server: 14:41:52 lol
+Cilent: 14:41:56 bye
+Server: 14:42:00 bye
